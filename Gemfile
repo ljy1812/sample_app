@@ -6,6 +6,7 @@ gem 'rails', '4.0.0'
 gem 'bootstrap-sass','2.3.2.0'
 gem 'pg', '0.15.1'
 gem 'rb-readline', '0.4.2'
+gem 'bcrypt-ruby', '3.0.1'
 
 # Use sqlite3 as the database for Active Record
 group :development, :test do
